@@ -85,14 +85,23 @@ plt.show()
 ### Output
 
 ![output](ss1.png)
+
 ![output](ss2.png)
+
 ![output](ss3.png)
+
 ![output](ss4.png)
+
 ![output](ss5.png)
+
 ![output](ss6.png)
+
 ![output](ss7.png)
+
 ![output](ss8.png)
+
 ![output](ss9.png)
+
 ![output](ss10.png)
 
 ### Result:
